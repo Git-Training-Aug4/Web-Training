@@ -1,0 +1,5 @@
+add video
+add image
+add song
+add transition
+add bla bla bla
