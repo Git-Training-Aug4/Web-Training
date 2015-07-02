@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 aaa banjasdkaosdkoo
+=======
+sssssssssssssssssssssssssssssssssssssssssssssssssssssss
+>>>>>>> 776dfcfb8564844c66a38c0295622a61c08cedc9
 
 ======     ===          ===     ==  =  =====
  =======   =====       ===    ===  =  =====
